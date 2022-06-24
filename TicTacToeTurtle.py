@@ -1,5 +1,3 @@
-cc = "Spacerocket007"
-
 import turtle
 import time
 
